@@ -114,3 +114,8 @@ class Doctor(models.Model):
 |  23rd Monday   |    Add CSS/ launch front end     |
 |  24th Tuesday  |       Review Stretch Goals       |
 | 25th Wednesday |         Presentation Day         |
+
+
+## Daily Plan of Attack
+
+![plan of attack](https://trello.com/b/ERUs8q4b/project-management)
