@@ -17,6 +17,8 @@
 ## Wireframe of the App
 
 ![Wireframe Quick Care MD App](Quick%20Care%20MD%20ERD%20table%20-%20Wireframe.jpg)
+![wireframe Quick Care Md](/Screenshot%202024-09-16%20at%2010.39.24 AM.png)
+![wireframe Quick Care Md](/Screenshot%202024-09-16%20at%2010.39.39 AM.png)
 
 ## ERD table for QuickCareMD app
 
