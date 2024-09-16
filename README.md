@@ -118,4 +118,4 @@ class Doctor(models.Model):
 
 ## Daily Plan of Attack
 
-![plan of attack](https://trello.com/b/ERUs8q4b/project-management)
+[plan of attack!](https://trello.com/b/ERUs8q4b/project-management)
