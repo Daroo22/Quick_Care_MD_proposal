@@ -61,6 +61,7 @@ class Doctor(models.Model):
 </details>
 
 ## Component Diagram
+![component Diagram](/ComponentHeirachy.png)
 
 <details>
 <summary> Click here to see component diagram</summary>
